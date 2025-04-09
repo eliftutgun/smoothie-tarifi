@@ -1,0 +1,689 @@
+{
+    "tarifler": [
+      {
+        "tarif_adi": "Muzlu Smoothie",
+        "malzemeler": [
+          "2 adet muz",
+          "1 yemek kaşığı bal",
+          "1.5 bardak süt",
+          "1 çay bardağı yoğurt",
+          "biraz tarçın"
+        ],
+        "yapılışı": "Muzlu smoothie tarifi için ilk olarak muzun kabuklarını soyalım ve blendera alalım. Bal, soğuk süt, yoğurt ve tarçını da ekleyerek blenderı çalıştıralım. Blenderı önce düşük sonra yüksek ayarda çalıştırabilirsiniz. Tüm malzemeler püre haline geldiğinde blenderı kapatalım. İçeceğinizin kıvamını yoğurt ya da süt ekleyerek kendinize göre ayarlayabilirsiniz. Hazırladığımız muzlu smoothieleri servis bardaklarına alalım. Dilediğimiz gibi süsleyerek servis edelim. Bal miktarını damak tadınıza göre ayarlayabilirsiniz. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "Ahududu-Çilek Smoothie",
+        "malzemeler": [
+          "1 çay bardağından 1 parmak az süt",
+          "1 çay bardağından 1 parmak az su",
+          "1 kase dondurulmuş ahududu",
+          "5 adet orta boy çilek",
+          "1 yemek kaşığı limon suyu"
+        ],
+        "yapılışı": "Çilekleri yıkayıp baş kısımlarını alıp ortadan ikiye bölüyoruz ve diğer tüm malzemelerle birlikte rondodan çekiyoruz. Smoothiemiz hazır. Deneyenlere afiyet olsun."
+      },
+      {
+        "tarif_adi": "Trabzon Hurmalı Smoothie",
+        "malzemeler": [
+          "1 trabzon hurması",
+          "200 ml süt",
+          "1 çay kaşığı zerdeçal",
+          "1 tatlı kaşığı keten tohumu"
+        ],
+        "yapılışı": "Trabzon hurmasının çekirdeklerini çıkarın. Kabuğuyla birlikte blenderın içine koyun. Diğer malzemeleri ekleyin. Blenderdan geçirin. Afiyet olsun :)"
+      },
+      {
+        "tarif_adi": "Şeftalili Smoothie",
+        "malzemeler": [
+          "2 adet şeftali",
+          "1 yemek kaşığı kadar yoğurt",
+          "Yarım bardak süt",
+          "Yarım çay kaşığından az tarçın"
+        ],
+        "yapılışı": "Şeftalileri soyup çekirdeğini çıkarıp bir güzel doğruyoruz küp küp :) sonra eziyoruz. Karpuzlu smothiede anlattığım gibi evde mikseri olmayanlar shakerın içinde ya da kavanozda blenderla ezebilirler. Suyunu çıkardıktan sonra üzerine tarçın, yoğurt ve sütü ekliyoruz, tekrar blenderla karıştırıyoruz. Yaptıktan sonra bence hemen buzdolabına koyun ve soğusun soğuduktan sonra içerseniz daha lezzetli çünkü ılıkken o kadar da ferahlatıcı olmuyor denedim ve kötüydü benden söylemesi."
+      },
+      {
+        "tarif_adi": "Kivili Çilekli Smoothie",
+        "malzemeler": [
+          "3 adet büyük boy muz",
+          "3 yemek kaşığı yoğurt",
+          "5 büyük boy kivi",
+          "1 yemek kaşığı bal",
+          "200 gram çilek"
+        ],
+        "yapılışı": "Muzları ikiye bölüp düzleştirdiğimiz yoğurdu da katarak blender ile püre haline gelene kadar çekelim. Ardından kivi ve balı blender ile çekelim. Son olarak da çileği çekelim. Ardından kullanacağımız kabın içine muzu dökelim. Kiviyi de kaşık yardımı ile dökelim. Çileği de yine kaşık yardımı ile en üste koyalım ve içeceğimiz hazır. İster kaşık isterseniz pipet yardımı ile tüketebilirsiniz. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "İncirli Smoothie",
+        "malzemeler": [
+          "2-3 Yemek kaşığı yoğurt",
+          "1 adet incir",
+          "3-4 adet kırmızı üzüm"
+        ],
+        "yapılışı": "Tüm malzemeleri blenderdan geçirelim. Kıvamı arttırmak için yoğurt miktarını değiştirebiliriz. İsteğe göre iki üç yaprak taze nane de ekleyebiliriz. Harika besleyici smoothiemiz hazır. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "Karpuzlu Kırmızı Pancarlı Smoothie",
+        "malzemeler": [
+          "Kalın 2 dilim karpuz",
+          "2 tane orta boy kırmızı pancar",
+          "3 tane yerli muz",
+          "1 portakal",
+          "3 yemek kaşığı pirinç patlağı veya yulaf ezmesi",
+          "1 yemek kaşığı keçi boynuzlu chia tohumlu fıstık ezmesi",
+          "1 tatlı kaşığı chia tohumu",
+          "1 avuç fındık",
+          "1/2 çay kaşığı tarçın",
+          "1/2 çay kaşığı zencefil",
+          "1 limonun suyu"
+        ],
+        "yapılışı": "Mevsim meyvelerini, kuruyemiş çeşitleri ile birlikte kullanarak, taze, vitamin deposu içecekler hazırlamak hiç bu kadar kolay olmamıştı diyeceksiniz. Kimi zaman kahveli, kimi zaman karpuzlu, kırmızı pancarlı veya aklınıza gelen tüm meyveleri çılgınca kombinasyonlarla bir araya getirererek kendi smoothienizi oluşturabilirsiniz. Ben bu gün ana malzeme karpuz, muz ve biraz C vitamini ve antioksidan deposu kırmızı pancar kullandım. Kırmızı pancarın rengini seviyorum. Hele karpuzla birleşince gördüğünüz gibi çok güzel oldu. Karpuzları küçük küçük kesin, çekirdeklerini temizleyin. Sürahiye doldurup derin dondurucuya kaldırın. Muzları iri dilimler halinde kesin ve derin dondurucuya kaldırın. Kırmızı pancarları çiğ olarak kullandım. Kabuklarını soyun, mutfak robotundan çekin ve buzdolabına kaldırın. Siz hazırlıklarınızı yaparken 15 dakika kadar buzdolabında kalıp soğusunlar. Tam buzlu olarak kullanmak için değil, soğuması ve çok az sertleşmesi için derin dondurucuya kaldırıyoruz. Büyük boy bir sürahi kullanmanızı tavsiye ederim. Karpuzu blender ile biraz karıştırın, parçalanıp diğer malzemelere yer açılsın. Üzerine muzu, kesilmiş portakal dilimlerini ve pancarı ekleyin. Fındık, tarçın, zencefili ekleyerek karıştırmaya devam edin. İsterseniz buz parçaları ekleyerek karıştırabilirsiniz. Benim derin dondurucumda donmuş limon suyu her zaman oluyor. 3 parça kullanmam yeterli oldu. Tüm malzemeler birbirine iyice karışıncaya kadar blender ile bir iki dakika karıştırın. Soğuk servis yapın. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "Kefirli Smoothie",
+        "malzemeler": [
+          "400 ml kefir",
+          "8 adet böğürtlen",
+          "8 adet frambuaz",
+          "1 tatlı kaşığı bal",
+          "6 parça buz"
+        ],
+        "yapılışı": "Tüm malzemeyi blenderdan geçirip bekletmeden servis ediniz. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "Yeşil Smoothie",
+        "malzemeler": [
+          "1 adet muz",
+          "1 su bardağı ıspanak",
+          "1 adet kabuğu soyulmuş portakal",
+          "1 adet salatalık",
+          "1.5 su bardağı su"
+        ],
+        "yapılışı": "Bütün malzemelerimizi blendera koyup pürüzsüz olana kadar karıştırıyoruz. Afiyet olsun."
+      },
+      {
+        "tarif_adi": "Ananas Smoothie",
+        "malzemeler": [
+          "2 dilim ananas",
+          "1/4 muz",
+          "1 su bardağı süt",
+          "2 dilim limon",
+          "1 avuç nane"
+        ],
+        "yapılışı": "Bütün malzemeleri iyice yıkadıktan sonra blenderdan geçirin. Yağ yakan, metabolizma hızlandırıcı smoothieniz hazır :)"
+      },
+  {
+    "tarif_adi": "California Smoothie",
+    "malzemeler": [
+      "4 taze portakal veya mandalina suyu",
+      "2 damla limon suyu",
+      "4-5 adet yerfıstığı veya kaju",
+      "2 adet kayısı veya 2 dilim elma",
+      "5 adet çilek"
+    ],
+    "yapılışı": "Miksere bütün malzemeleri koyun ve karıştırın. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Pratik Smoothie",
+    "malzemeler": [
+      "2 tane muz",
+      "5 tane kivi"
+    ],
+    "yapılışı": "Evdeki çürümeye yakın muzları değerlendirmek için kolay ve pratik smoothie yapımı. Muzu ve kivileri dilimleyip karıştırın. Blenderdan topak kalmayacak şekilde geçirin. Buzdolabında 2 saat beklettikten sonra servis edin. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Karpuzlu Smoothie",
+    "malzemeler": [
+      "600 gram karpuz",
+      "250 ml süt",
+      "125 gram yoğurt",
+      "1-2 yemek kaşığı pudra şekeri",
+      "2 top vanilyalı dondurma"
+    ],
+    "yapılışı": "Bütün malzemeleri bir kaba koyup blender veya rondo yardımıyla ezelim. En son içine dondurmayı ekleyip tekrar ezelim. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Detoks Etkili Smoothie",
+    "malzemeler": [
+      "1",
+      "Yarım kivi",
+      "Yarım yeşil elma",
+      "1 çay bardağı süt",
+      "1 yemek kaşığı yoğurt"
+    ],
+    "yapılışı": "Tüm malzemeleri robottan geçiriyoruz ve hazır."
+  },
+  {
+    "tarif_adi": "Smoothie (Vegan)",
+    "malzemeler": [
+      "2 adet dondurulmuş muz",
+      "1 adet kabuksuz salatalık",
+      "2 avuç dondurulmuş yaban mersini",
+      "Yarım bardak su"
+    ],
+    "yapılışı": "Bütün malzemeler blendera eklenir ve çekilir. Sıvı miktarı yoğunluğuna göre değişebilir."
+  },
+  {
+    "tarif_adi": "Muzlu ve Kivili Smoothie",
+    "malzemeler": [
+      "3 adet muz",
+      "3 adet kivi",
+      "2 su bardağı süt",
+      "3 tepeleme yemek kaşığı dondurma",
+      "Yeteri kadar buz"
+    ],
+    "yapılışı": "Derin bir sürahiye ince doğranmış muzu ve kiviyi alıp, blenderden geçiriyoruz. Dondurma ve sütü de ekleyip tekrar blenderden geçirin."
+  },
+  {
+    "tarif_adi": "Muzlu Oreo Bisküvili Smoothie",
+    "malzemeler": [
+      "1 adet muz",
+      "4 adet Oreo bisküvi",
+      "125 ml süt",
+      "125 ml yoğurt"
+    ],
+    "yapılışı": "Tüm malzemeleri blendera koyup iyice karıştırınız."
+  },
+  {
+    "tarif_adi": "Çilekli Smoothie",
+    "malzemeler": [
+      "4-5 adet çilek",
+      "2 yemek kaşığı yoğurt",
+      "Akışkan kıvamını ayarlamak için süt"
+    ],
+    "yapılışı": "Süt hariç bütün malzemeler eklenip rondodan geçirilir. Kıvamını ayarlamak için süt eklenip karıştırılır."
+  },
+  {
+    "tarif_adi": "Armutlu Smoothie",
+    "malzemeler": [
+      "1 adet küçük boy armut",
+      "1 su bardağı süt",
+      "2 yemek kaşığı yoğurt",
+      "1 dilim zencefil",
+      "1 tatlı kaşığı hindistan cevizi tozu",
+      "1 çay kaşığı tarçın"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Yoğurtlu Portakallı Smoothie",
+    "malzemeler": [
+      "1 su bardağı yoğurt",
+      "3 yemek kaşığı yulaf",
+      "1 çay bardağı portakal suyu",
+      "1/2 adet portakal kabuğu rendesi",
+      "1 çay kaşığı vanilin"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Yeşil Detoks Smoothie",
+    "malzemeler": [
+      "1/2 adet elma",
+      "1 adet kivi",
+      "1 adet salatalık",
+      "3 dilim taze zencefil",
+      "1 avuç ıspanak yaprağı",
+      "1 adet limon suyu",
+      "1 su bardağı su"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Kahveli ve Yulaflı Smoothie",
+    "malzemeler": [
+      "1 fincan espresso",
+      "1 çay bardağı süt",
+      "1/2 adet muz",
+      "3 tatlı kaşığı yulaf",
+      "1 tatlı kaşığı fıstık ezmesi",
+      "8 adet buz küpü"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Atom Smoothie",
+    "malzemeler": [
+      "1/2 adet yeşil elma",
+      "1 adet havuç",
+      "1/2 adet pancar",
+      "1/2 adet muz",
+      "2 yemek kaşığı ceviz",
+      "1 tatlı kaşığı bal",
+      "1/2 su bardağı süt",
+      "1/2 adet portakal",
+      "4-5 küp buz"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Bal Kabaklı ve Kahveli Smoothie",
+    "malzemeler": [
+      "3 yemek kaşığı yulaf",
+      "1 çay kaşığı süt",
+      "1 çay kaşığı filtre kahve",
+      "2 yemek kaşığı bal kabağı (haşlanmış)",
+      "1/2 adet muz",
+      "1 tutam tarçın",
+      "1 tutam toz zencefil",
+      "1 tutam zerdeçal",
+      "1 tutam muskat cevizi"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Kakaolu Muzlu Smoothie",
+    "malzemeler": [
+      "2 adet dondurulmuş muz",
+      "1 yemek kaşığı bal",
+      "2 adet ceviz",
+      "200 ml kefir",
+      "5 adet buz",
+      "1 yemek kaşığı kakao"
+    ],
+    "yapılışı": "Malzemeleri blenderdan geçirin ve hazır. Afiyet olsun."
+  },
+  {
+    "tarif_adi": "Vişneli Cheesecake Smoothie",
+    "malzemeler": [
+      "1 su bardağı dondurulmuş vişne",
+      "1 adet muz",
+      "2 su bardağı süt",
+      "4 yemek kaşığı krem peynir",
+      "6 adet bisküvi"
+    ],
+    "yapılışı": "Muzun kabuklarını soyun ve donması için dolaba kaldırın. Muzunuz donduktan buzdolabından çıkarın. Vişne, muz, labne ve sütü blendera alın. Bisküvi hariç tüm malzemeleri blenderdan geçirin. Bardaklara karışımları pay edin. Bisküvileri elinizle ufalayarak karışımın üzerine serpin. Üzerini meyve ile süsleyerek bekletmeden afiyetle tüketin."
+  },
+  {
+    "tarif_adi": "Kavunlu Smoothie",
+    "malzemeler": [
+      "200 ml yağsız süt",
+      "4 dilim kavun",
+      "1 yemek kaşığı yoğurt",
+      "1 tatlı kaşığı bal"
+    ],
+    "yapılışı": "Kesip yeşil kısımlarını kabuk üzerinde bıraktıktan sonra dilimlediğiniz kavunu küçük parçalar halinde kesin. Yoğurdun suyunu süzün. Yağsız süt, kavun parçaları, yoğurt ve balı blender kabına alın. Tüm malzemeyi kısa bir süre, hafif pütürlü bir halde kalana kadar blenderda çektirin."
+  },
+  {
+    "tarif_adi": "Kivili Smoothie",
+    "malzemeler": [
+      "200 ml yeşil elma suyu",
+      "1 adet orta boy kivi",
+      "100 gram körpe ıspanak yaprağı",
+      "1/2 demet maydanoz",
+      "1 tatlı kaşığı limon suyu"
+    ],
+    "yapılışı": "Yeşil elmaları katı meyve sıkacağında sıkarak taze sıkılmış elma suyunu hazırlayın. Kabuğunu soyduğunuz kiviyi küçük parçalara bölün. Körpe ıspanak yapraklarını bol suda yıkadıktan sonra salata kurutucusunda kurutun. Maydanoz yapraklarını ayıklayın. Tüm malzemeyi limon suyu ilavesiyle blender kabına alıp pürüzsüz bir kıvam alana kadar çektirin."
+  },
+  {
+    "tarif_adi": "Muzlu Hurmalı Smoothie",
+    "malzemeler": [
+      "200 ml  süt",
+      "1/2 adet muz",
+      "3 adet hurma",
+      "2 adet ceviz",
+      "10 gram yulaf"
+    ],
+    "yapılışı": "Çekirdeklerini çıkardığınız hurmaları küçük küpler halinde doğrayın. Kabuğunu soyduğunuz muzu dilimleyin. Cevizi küçük parçalar halinde kırın. Az yağlı süt, yulaf kepeği, muz, hurma ve bütün ceviz parçalarını blender kabına alın. Tüm malzemeyi yoğun bir kıvam alana kadar çekin."
+  },
+  {
+    "tarif_adi": "Orman Meyveli Smoothie",
+    "malzemeler": [
+      "200 ml kefir",
+      "4 adet orta boy çilek",
+      "50 gram yaban mersini",
+      "50 gram ahududu",
+      "50 gram böğürtlen",
+      "10 gram taze zencefil",
+      "6 yaprak taze nane"
+    ],
+    "yapılışı": "Bol suda yıkadığınız çilek, yaban mersini, böğürtlen ve ahududuyu salata kurutucusunda kurutun. Kabuğunu ince bir şekilde soyduğunuz taze zencefili küçük parçalar halinde kesin. Çileklerin sap kısımlarını aldıktan sonra dört eşit parçaya bölün. Yarım yağlı kefir, doğranmış çilek, yaban mersini, ahududu ve böğürtlen tanelerini zencefil parçalarıyla birlikte blender kabına alın. Nane yapraklarını ekleyin. Tüm malzemeleri kısa bir süre, hafif pütürlü kalana kadar blenderda çekin."
+  },
+  {
+    "tarif_adi": "Pancarlı Smoothie",
+    "malzemeler": [
+      "200 gram kırmızı pancar",
+      "1 tatlı kaşığı limon suyu",
+      "100 gram çilek",
+      "100 gram yoğurt",
+      "1/4 demet maydanoz",
+      "10 gram taze zencefil"
+    ],
+    "yapılışı": "Tercihen önceden haşladığınız kırmızı pancarların kabuklarını ovarak çıkartın ya da incecik soyun. Küçük parçalar halinde doğrayın. Bol suda yıkayıp uç kısımlarını aldığınız çilekleri ortadan ikiye kesin. Yoğurdun suyunu süzün. Kabuğunu ince bir şekilde soyduğunuz taze zencefili küçük parçalar halinde kesin. Maydanoz yapraklarını tek tek ayıklayın. Yoğurt, maydanoz yaprakları, limon suyu, kırmızı pancar, çilek ve zencefil parçalarını blender kabına alın. Tüm malzemeyi sıvı hale gelip pütürsüz bir hal alana kadar blenderda çektirin."
+  },
+  {
+    "tarif_adi": "Keten Tohumlu Smoothie",
+    "malzemeler": [
+      "1,5 su bardağı süt",
+      "1/2 adet muz",
+      "1 yemek kaşığı yoğurt",
+      "1/4 çay kaşığı toz zencefil",
+      "1 çay kaşığı tarçın",
+      "1 yemek kaşığı keten tohumu"
+    ],
+    "yapılışı": "Kabuğunu soyduğunuz muzu dilimleyin. Laktozsuz sütü blendera alın. Yoğurt, muz dilimleri, keten tohumu, toz zencefil ve tarçını süte ekleyin. Tüm malzemeleri blenderda püre haline gelene kadar karıştırın."
+  },
+  {
+    "tarif_adi": "Yeşil Smoothie",
+    "malzemeler": [
+      "3 adet orta boy yeşil elma",
+      "200 gram körpe ıspanak",
+      "5 gram taze zencefil",
+      "4 yemek kaşığı yoğurt",
+      "1/2 su bardağı demlenmiş yeşil çay",
+      "1 tatlı kaşığı bal"
+    ],
+    "yapılışı": "Bol suda yıkadığınız körpe ıspanak yapraklarını salata kurutucusunda kurutun. Kabuğunu ince bir şekilde soyduğunuz taze zencefili küçük parçalar halinde kesin. Bol suda yıkayıp kuruladığınız kabuklu yeşil elmaları dört eşit parçaya böldükten sonra çekirdekli kısımlarını çıkartın. Yeşil çay yapraklarını sıcak suda demledikten sonra süzüp soğuması için bir kenarda bekletin. Yoğurt, bal, körpe ıspanak yaprakları, zencefil parçaları ve demlenmiş yeşil çayı bir blendera alın. Tek tek eklediğiniz kabuklu yeşil elma dilimlerinin yardımıyla tüm malzemeleri kısa bir süre hafif pütürlü kalana kadar blenderda çektirin."
+  },
+  {
+    "tarif_adi": "Ispanaklı Smoothie",
+    "malzemeler": [
+      "2 avuç ıspanak",
+      "1 salatalık",
+      "Yarım demet maydanoz",
+      "1 limonun suyu",
+      "2 şişe elma aromalı doğal maden suyu"
+    ],
+    "yapılışı": [
+      "Ispanak, salatalık ve maydanozu katı meyve sıkacağı ile sıkın.",
+      "Limon suyu ve elma aromalı maden suyunu ilave edip karıştırın."
+    ]
+  },
+  {
+    "tarif_adi": "Meyveli Smoothie",
+    "malzemeler": [
+      "Yarım su bardağı ahududu",
+      "1 adet muz",
+      "2 adet portakal",
+      "1/2 su bardağı yoğurt"
+    ],
+    "yapılışı": [
+      "Tüm malzemeleri blenderdan geçirip servis yapın."
+    ]
+  },
+  {
+    "tarif_adi": "Yaban Mersinli Dondurmalı Smoothie",
+    "malzemeler": [
+      "1 su bardağı dondurulmuş yaban mersini",
+      "3 yemek kaşığı vanilyalı dondurma",
+      "1 su bardağı dondurulmuş badem sütü buzu",
+      "1 yemek kaşığı bal"
+    ],
+    "yapılışı": [
+      "Tüm malzemeyi blenderdan geçirin."
+    ]
+  },
+  {
+    "tarif_adi": "Kivili Mango Smoothie",
+    "malzemeler": [
+      "200 gr mango",
+      "1 yemek kaşığı limon suyu",
+      "1 su bardağı yoğurt",
+      "1 paket vanilya",
+      "2 adet kivi"
+    ],
+    "yapılışı": [
+      "Mangoyu küçük parçalar şeklinde doğrayıp blender haznesine alın.",
+      "Yoğurt, vanilya ve limon suyunu ekleyip tamamen pürüzsüz hale gelinceye kadar karıştırın."
+    ]
+  },
+  {
+    "tarif_adi": "Semizotlu Yeşil Smoothie",
+    "malzemeler": [
+      "1 su bardağı semizotu",
+      "2 adet muz",
+      "1 adet kivi",
+      "4 yemek kaşığı süzme yoğurt"
+    ],
+    "yapılışı": [
+      "Semizotu yapraklarını, dondurulmuş muz parçaları ile kiviyi ve süzme yoğurdu mutfak robotuna aktarın.",
+      "Püre haline gelene kadar karıştırın."
+    ]
+  },
+  {
+    "tarif_adi": "Mango Smoothie",
+    "malzemeler": [
+      "1/2 su bardağı ananas suyu",
+      "1/2 su bardağı yoğurt",
+      "1/2 su bardağı doğranmış ananas",
+      "1/2 su bardağı doğranmış mango",
+      "1 adet muz",
+      "1 tatlı kaşığı rendelenmiş zencefil"
+    ],
+    "yapılışı": [
+      "Tüm malzemeleri blenderdan geçirip servis yapın."
+    ]
+  },
+  {
+    "tarif_adi": "Yulaflı Smoothie",
+    "malzemeler": [
+      "500 ml süt",
+      "8-10 parça ceviz",
+      "6 adet çilek",
+      "1 adet elma",
+      "1 yemek kaşığı kuru üzüm",
+      "1 adet muz",
+      "1 adet kivi",
+      "5 küp buz",
+      "2 yemek kaşığı bal",
+      "2 yemek kaşığı yulaf"
+    ],
+    "yapılışı": [
+      "Öncelikle elma, muz ve kivinin kabuklarını soyup küp küp doğrayın.",
+      "Çilekleri 3-4 parça olacak şekilde kesin.",
+      "Buz parçaları dışındaki tüm malzemeleri blendera alın ve püre kıvamına gelene kadar çektirin."
+    ]
+  },
+  {
+    "tarif_adi": "Avokadolu Smoothie",
+    "malzemeler": [
+      "1/2 büyük boy olgun avokado",
+      "200 ml süt",
+      "1/4 adet yeşil elma",
+      "2 yemek kaşığı yoğurt",
+      "1 yemek kaşığı bal",
+      "10 yaprak taze nane"
+    ],
+    "yapılışı": [
+      "Öncelikle bir adet avokadoyu ortadan ikiye kesin ve ortasındaki çekirdeği çıkartın.",
+      "Avokadonun yarısını alın ve kabuğunu soyun. Ardından küp küp doğrayın.",
+      "Yeşil elmayı bol suyla yıkadıktan sonra 4 parçaya bölün. Bu parçalardan birini alın ve çekirdeklerini temizleyin.",
+      "Naneyi suda duruladıktan sonra yapraklarını dikkatlice ayıklayın.",
+      "Tüm malzemeleri blendera alın ve hafif pütürlü bir karışım elde edene kadar çekin."
+    ]
+  },
+  {
+    "tarif_adi": "Elmalı Smoothie",
+    "malzemeler": [
+      "1 adet kırmızı elma",
+      "1,5 su bardağı süt",
+      "1/2 su bardağı badem içi",
+      "1 yemek kaşığı yoğurt",
+      "1 tatlı kaşığı bal",
+      "1/4 tatlı kaşığı tarçın"
+    ],
+    "yapılışı": [
+      "Öncelikle elmanın kabuklarını soyun ve dört eşit parçaya bölün.",
+      "Elmanın içindeki çekirdekleri çıkartın. Blendera soğuk sütü alın.",
+      "Üzerine elma, badem, bal, yoğurt ve tarçını ekleyin.",
+      "Tüm malzemeler püre kıvamına gelene kadar çektirin."
+    ]
+  },
+  {
+    "tarif_adi": "Ejder Meyveli Smoothie",
+    "malzemeler": [
+      "1 adet ejder meyvesi",
+      "1 fincan ahududu",
+      "1 fincan süt",
+      "1/2 fincan böğürtlen",
+      "1 çay kaşığı limon suyu",
+      "150 gr çilekli yoğurt",
+      "2 yemek kaşığı chia tohumu"
+    ],
+    "yapılışı": [
+      "Öncelikle ejder meyvesini soyun ve güzelce temizleyin.",
+      "Daha sonra ejder meyvesini büyük parçalar halinde bölün.",
+      "Böğürtlen ve ahududuyu ayıklayın.",
+      "Blenderin içerisine ejder meyvesi, böğürtlen, ahududu, limon suyu, süt, çilekli yoğurt ve chia tohumunu alın.",
+      "Karışım berrak bir kıvama gelinceye kadar çektirin."
+    ]
+  },
+  {
+    "tarif_adi": "Böğürtlenli Smoothie",
+    "malzemeler": [
+      "2 su bardağı süt",
+      "1 kase böğürtlen",
+      "1 adet muz",
+      "1 avuç buz küpü"
+    ],
+    "yapılışı": [
+      "Muz, böğürtlen ve sütü blenderdan geçirerek püre kıvamına getirin."
+    ]
+  },
+  {
+    "tarif_adi": "Ananaslı Smoothie",
+    "malzemeler": [
+      "1/2 tatlı kaşığı zencefil",
+      "1/2 tatlı kaşığı zerdeçal",
+      "2 su bardağı ananas",
+      "1 adet muz, küçük",
+      "1 su bardağı süt"
+    ],
+    "yapılışı": [
+      "Malzemeleri blendera alıp, pürüzsüz bir kıvam alana dek çekin."
+    ]
+  },
+  {
+    "tarif_adi": "Muzlu Yulaf Smoothie",
+    "malzemeler": [
+      "1 adet muz",
+      "1/2 su bardağı yulaf ezmesi",
+      "1 su bardağı süt",
+      "Bal"
+    ],
+    "yapılışı": [
+      "İlk olarak, muzu soyun ve dilimleyin.",
+      "Blenderınıza dilimlenmiş muzu, yulaf ezmesini ve tercihinize göre sütü ekleyin.",
+      "İsteğe bağlı olarak tatlandırmak için bal veya agave şurubu ekleyebilirsiniz.",
+      "Tüm malzemeleri blenderda yüksek hızda karıştırın.",
+      "Pürüzsüz bir kıvam elde etmek için yeterince karıştırdığınızdan emin olun."
+    ]
+  },
+  {
+    "tarif_adi": "Çilekli Protein Smoothie",
+    "malzemeler": [
+      "1 su bardağı çilek",
+      "1 adet muz",
+      "1 su bardağı yoğurt",
+      "1 yemek kaşığı fıstık ezmesi",
+      "1 yemek kaşığı chia tohumu",
+      "1 su bardağı su veya süt"
+    ],
+    "yapılışı": [
+      "İlk olarak, çilekleri yıkayın ve saplarından ayırın.",
+      "Muzu soyun ve dilimleyin. Blenderınıza yıkanmış çilekleri, dilimlenmiş muzu, yoğurdu, fıstık ezmesini ve chia tohumlarını ekleyin.",
+      "Üzerine su veya sütü ekleyin. Eğer daha koyu bir kıvam istiyorsanız, buz da ekleyebilirsiniz.",
+      "Tüm malzemeleri blenderda yüksek hızda karıştırın.",
+      "Pürüzsüz bir kıvam elde etmek için yeterince karıştırdığınızdan emin olun."
+    ]
+  },
+  {
+    "tarif_adi": "Havuçlu Portakal Smoothie",
+    "malzemeler": [
+      "1 su bardağı havuç suyu",
+      "1 portakalın suyu (veya 2 portakalın suyu)",
+      "1/2 çay kaşığı taze zencefil (isteğe bağlı, rendelenmiş)",
+      "1/2 çay kaşığı tarçın",
+      "1 su bardağı buz"
+    ],
+    "yapılışı": [
+      "İlk olarak, taze havuçları yıkayın, soyun ve doğrayın. Havuçları rendeleyerek de kullanabilirsiniz.",
+      "Portakalın kabuklarını soyun ve dilimleyin. İsterseniz portakal suyunu hazır olarak da satın alabilirsiniz.",
+      "Blenderınıza rendelenmiş havuçları ve dilimlenmiş portakalları ekleyin. İsteğe bağlı olarak, taze zencefili rendeleyin ve karışıma ekleyin.",
+      "Zencefil, smoothieye hafif bir baharatlı lezzet katar. Üzerine tarçını ekleyin. 1 su bardağı buz ekleyin.",
+      "Tüm malzemeleri blenderda yüksek hızda karıştırın. Pürüzsüz bir kıvam elde etmek için yeterince karıştırdığınızdan emin olun."
+    ]
+  },
+  {
+    "tarif_adi": "Narlı C Vitamini Bombası Smoothie",
+    "malzemeler": [
+      "1 su bardağı nar taneleri",
+      "1 portakalın suyu",
+      "1/2 su bardağı yoğurt (isteğe bağlı)",
+      "1 yemek kaşığı bal veya agave şurubu (isteğe bağlı)",
+      "1 su bardağı buz"
+    ],
+    "yapılışı": [
+      "İlk olarak, nar tanelerini ayıklayın ve bir su bardağı kadarını hazırlayın. Portakalın kabuklarını soyun ve suyunu sıkın. İsterseniz portakal suyunu hazır olarak da satın alabilirsiniz.",
+      "Blenderınıza nar tanelerini ve portakal suyunu ekleyin. İsteğe bağlı olarak, yoğurdu (tercihen doğal ve şekersiz yoğurt) ekleyin. Yoğurt, smoothieye kremamsı bir kıvam katar ve probiyotik içerir.",
+      "Bal veya agave şurubunu ekleyerek tatlandırabilirsiniz.",
+      "Üzerine bir su bardağı buz ekleyin.",
+      "Tüm malzemeleri blenderda yüksek hızda karıştırın. Pürüzsüz bir kıvam elde etmek için yeterince karıştırdığınızdan emin olun."
+    ]
+  },
+  {
+    "tarif_adi": "Elmalı Zencefilli Smoothie",
+    "malzemeler": [
+      "2 adet orta boy elma (soyulmuş, çekirdekleri çıkarılmış ve doğranmış)",
+      "1/2 su bardağı yoğurt (tercihen doğal ve şekersiz)",
+      "1 su bardağı badem sütü veya normal süt",
+      "1 yemek kaşığı bal veya agave şurubu",
+      "1/2 çay kaşığı taze zencefil (rendelenmiş)",
+      "1/2 çay kaşığı tarçın",
+      "1 su bardağı buz"
+    ],
+    "yapılışı": [
+      "İlk olarak, elmaları soyun, çekirdeklerini çıkarın ve doğrayın.",
+      "Rendelenmiş taze zencefili hazırlayın.",
+      "Blenderınıza doğranmış elmaları, yoğurdu, badem sütünü veya normal sütü, bal veya agave şurubunu, rendelenmiş zencefili ve tarçını ekleyin.",
+      "Üzerine bir su bardağı buz ekleyin.",
+      "Tüm malzemeleri blenderda yüksek hızda karıştırın. Pürüzsüz bir kıvam elde etmek için yeterince karıştırdığınızdan emin olun."
+    ]
+  },
+  {
+    "tarif_adi": "Karpuzlu Çilekli Smoothie",
+    "malzemeler": [
+      "1 kalın dilim karpuz",
+      "5 adet çilek",
+      "1 çay bardağı süt",
+      "Buz"
+    ],
+    "yapılışı": [
+      "İlk olarak karpuzun çekirdeklerini çıkartın.",
+      "Çilek ve buz ile birlikte blender’dan geçirin.",
+      "Süt ekleyerek hafif pütürlü smoothie kıvamını yakalayın."
+    ]
+  },
+  {
+    "tarif_adi": "Kakaolu Vişneli Smoothie",
+    "malzemeler": [
+      "250 ml yoğurt",
+      "1 adet muz",
+      "Yarım vanilya çubuğu",
+      "1 tatlı kaşığı bal",
+      "1 yemek kaşığı kakao",
+      "Yaklaşık 15 adet dondurulmuş vişne",
+      "5 – 6 küp buz"
+    ],
+    "yapılışı": [
+      "Vanilya çubuğundan vanilya özünü çıkarın.",
+      "Tüm malzemeleri blendera doldurun.",
+      "İyice çektikten sonra kıvamı koyu kalırsa bir miktar su veya süt ekleyebilirsiniz.Afiyet olsun."
+    ]
+  },
+  {
+    "tarif_adi": "Egzotik Meyvelerin Tadına Doyamayacağınız Bir Smoothie",
+    "malzemeler": [
+      "1/2 su bardağı dilimlenmiş mango",
+      "1/2 su bardağı yoğurt",
+      "1/2 su bardağı ananas suyu",
+      "1 adet muz",
+      "1/2su bardağı dilimlenmiş ananas",
+      "1 tatlı kaşığı zencefil"
+    ],
+    "yapılışı": [
+      "Meyveleri dilimledikten sonra yapmanız gereken tek şey tüm malzemeleri bir araya getirip blenderdan geçirmek.Afiyet olsun."
+    ]
+  }
+]
+}
